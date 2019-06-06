@@ -4,9 +4,9 @@ This is a small package for node.js to allow the analysis of image data in a Buf
 
 It is designed to be fast, completely written in javascript and have no dependencies on external packages or libraries.
 
-Currently it supports Png, Jpeg, Gif and (uncompressed) Swf analysis.
+Currently it supports PNG, JPEG, GIF and (uncompressed) SWF analysis.
 
-If you also have zlib available (`npm install zlib`) then it will support compressed Swf files.
+If you also have zlib available (`npm install zlib`) then it will support compressed SWF files.
 
 ## Usage:
 
@@ -26,7 +26,7 @@ To install imageinfo into your project, use `npm install imageinfo`, then it's s
 
 ## License:
 
-Project code is released under CC0 license:
+Project code is released under the CC0 license:
 
 <a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/">
 <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
